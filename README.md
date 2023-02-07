@@ -13,7 +13,7 @@
 
 <h1>Olá, sou o Paulo Germano</h1>
 
-![Sanke animation](https://github.com/paulogermano-alt/paulogermano-alt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulogermano-alt/paulogermano-alt/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" display="flex" flex-direction="collum">
   <div>
@@ -27,7 +27,7 @@
 
 ##
 
-<div style="display: inline_block;"><br>
+<div style="display: inline_block; align: center; "><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -39,5 +39,4 @@
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Paulo-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-  <img align="right" alt="Paulo-pic" height="150" src="https://i.pinimg.com/originals/4d/09/91/4d099109bcd3d496bd43587a36c21ada.gif">
 </div>
